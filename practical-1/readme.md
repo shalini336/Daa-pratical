@@ -111,12 +111,3 @@ To implement and analyze the following sorting algorithms in Python:
 - Average Case: O(n log n)
 - Worst Case: O(n²)
 
-## Time Complexity Comparison
-
-| Algorithm | Best Case | Average Case | Worst Case |
-
-| Bubble Sort | O(n) | O(n²) | O(n²) |
-| Selection Sort | O(n²) | O(n²) | O(n²) |
-| Insertion Sort | O(n) | O(n²) | O(n²) |
-| Merge Sort | O(n log n) | O(n log n) | O(n log n) |
-| Quick Sort | O(n log n) | O(n log n) | O(n²) |
